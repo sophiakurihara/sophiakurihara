@@ -5,7 +5,7 @@
 #### I am a software engineer, ux designer & musician - teaching full-stack development at [Codeup](https://www.codeup.com)
  
  - 🔭 I’m currently working on a [React authentication app](https://github.com/sophiakurihara/react-authentication).
- - 🌱 I’m currently learning C++, as well as [Data Structures and Algorithms](https://github.com/sophiakurihara/data-structures-and-algorithms).
+ - 🌱 I am enjoying learning C++, as well as [Data Structures and Algorithms](https://github.com/sophiakurihara/data-structures-and-algorithms).
  - 💬 Ask me about Codeup's [Capstone Process](https://codeup.com/ganymede/) and what it's like to teach people how to code :)
  - ⚡ Fun facts: I love writing music, reading books and spending time outdoors!
  
