@@ -2,8 +2,7 @@
 
 ![Github Banner](images/git-banner.png)
 
-#### I am a software engineer, ux designer & musician - currently teach full-stack development
- at a [career accelerator] (https://www.codeup.com).
+#### I am a software engineer, ux designer & musician - teaching full-stack development at [Codeup](https://www.codeup.com)
  
  - 🔭 I’m currently working on a [React authentication app](https://github.com/sophiakurihara/react-authentication).
  - 🌱 I’m currently learning C++, as well as [Data Structures and Algorithms](https://github.com/sophiakurihara/data-structures-and-algorithms).
