@@ -2,7 +2,7 @@
 
 ![Github Banner](images/git-banner.png)
 
-#### I am a software engineer, ux designer & musician - teaching full-stack development at [Codeup](https://www.codeup.com)
+#### I am a software engineer, ux designer & musician - currently in Product Education at [Figma](https://www.figma.com)
  
  - 🔭 I’m currently working on a [React authentication app](https://github.com/sophiakurihara/react-authentication).
  - 🌱 I am enjoying working with Java, as well as [Data Structures and Algorithms](https://github.com/sophiakurihara/data-structures-and-algorithms).
